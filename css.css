@@ -1,0 +1,12 @@
+.main {
+background-color:rgba(265,265,265,0.5);
+margin: 10% 5%;
+padding:5%;
+font-size: 2.5rem;
+
+}
+
+i[class^="wi-"], i[class*=" wi-"] {
+ margin: 20px;
+  font-size: 10rem;
+}
